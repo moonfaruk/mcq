@@ -391,43 +391,43 @@
                         <div class="widget-inner">
                             <div class="gallery-small-thumbs clearfix">
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery1.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb1.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery1.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb1.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery2.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb2.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery2.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb2.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery3.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb3.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery3.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb3.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery4.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb4.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery4.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb4.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery5.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb5.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery5.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb5.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery6.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb6.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery6.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb6.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery7.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb7.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery7.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb7.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div class="thumb-small-gallery">
-                                    <a class="fancybox" rel="gallery1" href="images/gallery/gallery8.jpg" title="Gallery Tittle One">
-                                        <img src="images/gallery/gallery-small-thumb8.jpg" alt="" />
+                                    <a class="fancybox" rel="gallery1" href="<?php echo base_url() ?>images/gallery/gallery8.jpg" title="Gallery Tittle One">
+                                        <img src="<?php echo base_url() ?>images/gallery/gallery-small-thumb8.jpg" alt="" />
                                     </a>
                                 </div>
                             </div> <!-- /.galler-small-thumbs -->
