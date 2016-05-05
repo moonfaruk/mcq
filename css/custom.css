@@ -1,0 +1,108 @@
+.profile-pic{
+	width: 100%;
+}
+
+.profile-pic img{
+	width: 100%;
+}
+
+#owl-demo .item img{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+
+/* main category Stylesheet */
+.exam_search_bar{
+	background: #28cc88;
+    background: -moz-linear-gradient(left,#28cc88 0,#17bdbb 47%,#01aafc 100%);
+    background: -webkit-linear-gradient(left,#28cc88 0,#17bdbb 47%,#01aafc 100%);
+    background: linear-gradient(to right,#28cc88 0,#17bdbb 47%,#01aafc 100%);
+}
+
+.event-small-title i.fa{
+	margin-right: 7px;
+}
+
+.right_widget marquee{
+    max-height: 400px;
+}
+
+.right_widget .list-event-item{
+    margin-top: 0;
+}
+
+.right_widget .list-event-item .box-content-inner{
+    padding: 0;
+}
+
+.subject_set .list-event-item{
+    margin-top: 0;
+}
+
+.subject_set hr{
+    margin: 0;
+}
+
+.right_widget hr{
+    margin-top: 0;
+}
+
+.view_details .widget-title{
+    font-size: 26px;
+}
+
+.view_details .widget-inner{
+    font-size: 16px;
+}
+/* ************ Exam Page ***************** */
+
+.exam_page > .row > .col-md-6 h3{
+    margin: 0;
+    padding: 0;
+}
+
+/* **************************************** */
+
+/* ************* Count Down Timer ********* */
+#clockdiv{
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+}
+
+#clockdiv > div{
+    padding: 5px;
+    border-radius: 3px;
+    background: #00BF96;
+    display: inline-block;
+}
+
+#clockdiv div > span{
+    padding: 5px;
+    border-radius: 3px;
+    background: #00816A;
+    display: inline-block;
+}
+
+.smalltext{
+    padding-top: 0;
+    font-size: 10px;
+}
+
+/* ************************************* */
+
+/* ********** Multiple Choise ************ */
+.multiple_choise ul{
+    list-style-type: none;
+}
+
+.multiple_choise ul li input{
+    
+    margin-right: 10px;
+}
+/* ************************************* */
