@@ -41,7 +41,7 @@
                             </ul>
                             
                             <hr>
-                            <a href="<?php echo base_url(); ?>exam/exam_page" class="btn btn-primary">Next</a>
+                            <a href="<?php echo base_url(); ?>exam/exam_page" class="btn btn-primary">Next Question</a>
 
                         </div>
                     </div>
